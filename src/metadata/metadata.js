@@ -10,7 +10,7 @@ module.exports = {
     'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
   },
   skills: [
-    ['Comedy', 100],
+    [' Terrible Comedy', 100],
     ['Love', 100],
     ['Theater', 100],
     ['Tragedy', 100],
